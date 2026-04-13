@@ -43,7 +43,7 @@ Currently architecting a **multi-tenant identity platform serving 80M+ users at 
 |---|---|---|
 | [identity-platform-oss](https://github.com/jainmohit0807/identity-platform-oss) | Multi-tenant auth service with OAuth2/JWT | Spring Boot, GCP, PostgreSQL, Redis |
 | [kafka-audit-pipeline](link) | Compliance event pipeline with retention | Kafka, Spring Boot, PostgreSQL |
-| [canary-deploy-framework](link) | CI/CD canary pipeline with auto-rollback | Docker, GCP, Shell |
+| [canary-deploy-framework](https://github.com/jainmohit0807/canary-deploy-demo) | CI/CD canary pipeline with auto-rollback | Docker, GCP, Shell |
 | [microservices-starter](link) | Production-ready microservices template | Spring Boot, Kafka, Docker Compose |
 
 📝 Blog: [jainmohit0807.hashnode.dev](https://jainmohit0807.hashnode.dev)  
